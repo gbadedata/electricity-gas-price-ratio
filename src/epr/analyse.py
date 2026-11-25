@@ -215,7 +215,7 @@ def analyse(prices, ratio, cc, gb_methods, checks) -> None:
         f"Generated from the data on every build. Prices are household averages (all taxes, levies and support "
         f"included unless stated) for a medium consumer: electricity band DC, gas band D2. A heat pump with a "
         f"seasonal performance factor of {A.SPF_CENTRAL} is cheaper to run than a gas boiler that is {A.BOILER_EFF_CENTRAL:.0%} efficient "
-        f"boiler when the electricity-to-gas price ratio is below {A.BREAKEVEN_CENTRAL:.2f}. Across plausible "
+        f"when the electricity-to-gas price ratio is below {A.BREAKEVEN_CENTRAL:.2f}. Across plausible "
         f"installations the break-even runs from {A.BREAKEVEN_LOW:.2f} to {A.BREAKEVEN_HIGH:.2f}.",
         "",
         f"## 1. In {eu_latest}, a typical heat pump was cheaper to run than gas in {len(cheaper)} of {len(eu)} EU countries",

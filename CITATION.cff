@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and credit Eurostat, DESNZ and the ECB as the original publishers."
+title: "Electricity-to-gas price ratio for Europe and Great Britain"
+abstract: >-
+  Household electricity and gas prices for 41 European countries from 2007 to 2026,
+  built from Eurostat, DESNZ and ECB data, with the electricity-to-gas price ratio that
+  decides whether a heat pump is cheaper to run than a gas boiler. Provenance-tracked,
+  validated by eleven quality rules and refreshed weekly.
+type: dataset
+authors:
+  - family-names: Odimayo
+    given-names: Oluwagbade
+repository-code: "https://github.com/gbadedata/electricity-gas-price-ratio"
+license: MIT
+version: 0.1.0
+date-released: "2026-11-25"
+keywords:
+  - energy data
+  - electricity prices
+  - gas prices
+  - electrification
+  - heat pumps
+  - Eurostat
+  - open data

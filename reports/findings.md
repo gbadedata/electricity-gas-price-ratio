@@ -1,6 +1,6 @@
 # Findings
 
-Generated from the data on every build. Prices are household averages (all taxes, levies and support included unless stated) for a medium consumer: electricity band DC, gas band D2. A heat pump with a seasonal performance factor of 2.8 is cheaper to run than a gas boiler that is 85% efficient boiler when the electricity-to-gas price ratio is below 3.29. Across plausible installations the break-even runs from 2.78 to 4.38.
+Generated from the data on every build. Prices are household averages (all taxes, levies and support included unless stated) for a medium consumer: electricity band DC, gas band D2. A heat pump with a seasonal performance factor of 2.8 is cheaper to run than a gas boiler that is 85% efficient when the electricity-to-gas price ratio is below 3.29. Across plausible installations the break-even runs from 2.78 to 4.38.
 
 ## 1. In 2026-S1, a typical heat pump was cheaper to run than gas in 18 of 23 EU countries
 
