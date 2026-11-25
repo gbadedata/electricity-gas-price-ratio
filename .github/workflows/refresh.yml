@@ -34,9 +34,13 @@ jobs:
       - name: Fetch sources
         run: python -m epr fetch
 
-      - name: Build and validate
+      - name: Build and validate (only when a source changed)
         run: |
-          if [ -f src/epr/build.py ]; then python -m epr build; else echo "build step not added yet"; fi
+          if git diff --quiet -- data/raw; then
+            echo "Sources unchanged; published outputs left as they are."
+          else
+            python -m epr build
+          fi
 
       - name: Commit if anything changed
         run: |
