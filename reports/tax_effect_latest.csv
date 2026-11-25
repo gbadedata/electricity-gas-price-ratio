@@ -1,0 +1,25 @@
+geo,country,period,tax,currency,elec_band,elec_price_per_kwh,gas_price_per_kwh,ratio_incl,elec_flag,gas_flag,elec_source,gas_source,hp_to_boiler_running_cost,hp_cheaper_central,hp_verdict,ratio_excl,tax_effect_pct
+NL,Netherlands,2026-S1,I_TAX,EUR,DC,0.244,0.1622,1.5043,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.4567,True,cheaper,3.6928,-59.264
+DK,Denmark,2026-S1,I_TAX,EUR,DC,0.2375,0.1211,1.9612,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.5954,True,cheaper,3.1431,-37.6032
+LU,Luxembourg,2026-S1,I_TAX,EUR,DC,0.2023,0.0859,2.3551,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.7149,True,cheaper,2.7027,-12.8639
+IE,Ireland,2026-S1,I_TAX,EUR,DC,0.3871,0.1183,3.2722,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9933,True,depends on install,3.6144,-9.4688
+AT,Austria,2026-S1,I_TAX,EUR,DC,0.326,0.124,2.629,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.7981,True,cheaper,2.9018,-9.3985
+LV,Latvia,2026-S1,I_TAX,EUR,DC,0.2415,0.0812,2.9741,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9029,True,depends on install,3.2639,-8.8787
+IT,Italy,2026-S1,I_TAX,EUR,DC,0.3142,0.1137,2.7634,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.8389,True,cheaper,3.0283,-8.7464
+SE,Sweden,2026-S1,I_TAX,EUR,DC,0.3062,0.2201,1.3912,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.4223,True,cheaper,1.4933,-6.8379
+SI,Slovenia,2026-S1,I_TAX,EUR,DC,0.2118,0.0859,2.4657,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.7485,True,cheaper,2.5155,-1.9806
+FR,France,2026-S1,I_TAX,EUR,DC,0.2485,0.1347,1.8448,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.56,True,cheaper,1.8659,-1.1311
+LT,Lithuania,2026-S1,I_TAX,EUR,DC,0.2162,0.0629,3.4372,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,1.0434,False,depends on install,3.469,-0.9164
+HU,Hungary,2026-S1,I_TAX,EUR,DC,0.1139,0.033,3.4515,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,1.0478,False,depends on install,3.45,0.0439
+BG,Bulgaria,2026-S1,I_TAX,EUR,DC,0.1341,0.0654,2.0505,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.6225,True,cheaper,2.0495,0.0448
+PT,Portugal,2026-S1,I_TAX,EUR,DC,0.2367,0.1256,1.8846,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.5721,True,cheaper,1.8784,0.3262
+CZ,Czechia,2026-S1,I_TAX,EUR,DC,0.2884,0.0901,3.2009,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9717,True,depends on install,3.1494,1.635
+EE,Estonia,2026-S1,I_TAX,EUR,DC,0.2118,0.0796,2.6608,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.8077,True,cheaper,2.5802,3.1238
+DE,Germany,2026-S1,I_TAX,EUR,DC,0.3618,0.1156,3.1298,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9501,True,depends on install,3.0076,4.0631
+BE,Belgium,2026-S1,I_TAX,EUR,DC,0.3575,0.0846,4.2258,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,1.2828,False,depends on install,3.9986,5.6822
+RO,Romania,2026-S1,I_TAX,EUR,DC,0.2836,0.0594,4.7744,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,1.4494,False,dearer,4.3951,8.63
+EL,Greece,2026-S1,I_TAX,EUR,DC,0.2401,0.0771,3.1141,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9454,True,depends on install,2.7822,11.9316
+ES,Spain,2026-S1,I_TAX,EUR,DC,0.2509,0.0787,3.1881,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9678,True,depends on install,2.8196,13.0669
+SK,Slovakia,2026-S1,I_TAX,EUR,DC,0.1985,0.0626,3.1709,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,0.9626,True,depends on install,2.721,16.5344
+HR,Croatia,2026-S1,I_TAX,EUR,DC,0.1816,0.0502,3.6175,,,eurostat_nrg_pc_204,eurostat_nrg_pc_202,1.0982,False,depends on install,3.0837,17.312
+UK,United Kingdom,2025-S2,I_TAX,EUR,DC,0.3419,0.0809,4.2267,,,desnz_qep_561,desnz_qep_5101,1.2831,False,depends on install,3.396,24.4596

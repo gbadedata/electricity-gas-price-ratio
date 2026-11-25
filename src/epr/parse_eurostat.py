@@ -29,7 +29,7 @@ PERIOD_RE = re.compile(r"^\d{4}-S[12]$")
 
 TIDY_COLUMNS = [
     "geo", "period", "fuel", "band", "tax", "currency",
-    "price_per_kwh", "flag", "source_id", "source_last_update",
+    "price_per_kwh", "flag", "confidential", "source_id", "source_last_update",
 ]
 
 
@@ -64,6 +64,7 @@ def parse_prices(path: Path, fuel: str, source_id: str) -> pd.DataFrame:
         "currency": df["currency"],
         "price_per_kwh": pd.to_numeric(df["OBS_VALUE"].replace("", None), errors="coerce"),
         "flag": df["OBS_FLAG"],
+        "confidential": df["CONF_STATUS"].eq("C"),
         "source_id": source_id,
         "source_last_update": df["LAST UPDATE"],
     })

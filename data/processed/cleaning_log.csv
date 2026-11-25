@@ -1,0 +1,223 @@
+geo,period,fuel,band,tax,currency,action,reason,source_id
+AL,2021-S1,gas,D2,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D2,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D2,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D2,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D2,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D2,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D2,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D2,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2019-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2021-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2022-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2023-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2024-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2025-S2,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+MK,2026-S1,gas,D3,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,I_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,I_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,X_TAX,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,X_TAX,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,X_VAT,EUR,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S1,gas,D1,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2021-S2,gas,D1,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+AL,2022-S1,gas,D1,X_VAT,NAC,set to missing,published as exactly 0 (no market priced),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D2,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+SE,2024-S2,gas,D3,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,I_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,I_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,X_TAX,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,X_TAX,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,X_VAT,EUR,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+EL,2017-S2,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S1,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2024-S2,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S1,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2025-S2,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202
+PL,2026-S1,gas,D1,X_VAT,NAC,left missing,confidential (CONF_STATUS = C),eurostat_nrg_pc_202

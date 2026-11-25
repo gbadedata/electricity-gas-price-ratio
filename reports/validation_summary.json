@@ -1,0 +1,93 @@
+{
+  "raw_fetched_at": "2026-11-25T00:14:30Z",
+  "checks": [
+    {
+      "id": "B1",
+      "title": "One row per country, semester, fuel, band, tax level and currency; valid codes",
+      "severity": "blocking",
+      "checked": 67053,
+      "flagged": 0,
+      "passed": true
+    },
+    {
+      "id": "B2",
+      "title": "Prices used in the ratio, and every pre-tax price, are above zero and below EUR 2/kWh",
+      "severity": "blocking",
+      "checked": 19739,
+      "flagged": 0,
+      "passed": true
+    },
+    {
+      "id": "B3",
+      "title": "DESNZ and Eurostat agree on UK prices where both publish",
+      "severity": "blocking",
+      "checked": 150,
+      "flagged": 0,
+      "passed": true
+    },
+    {
+      "id": "W1",
+      "title": "The ratio is the same whether computed in euro or in national currency",
+      "severity": "warning",
+      "checked": 6694,
+      "flagged": 4,
+      "passed": false
+    },
+    {
+      "id": "W2",
+      "title": "Tax-inclusive price is at least the tax-exclusive price (bands used in the ratio)",
+      "severity": "warning",
+      "checked": 3914,
+      "flagged": 70,
+      "passed": false
+    },
+    {
+      "id": "W3",
+      "title": "Larger consumers do not pay more than 5% above smaller ones (tax included)",
+      "severity": "warning",
+      "checked": 7779,
+      "flagged": 635,
+      "passed": false
+    },
+    {
+      "id": "W4",
+      "title": "Eurostat's euro prices match its national-currency prices at the ECB semester-average rate",
+      "severity": "warning",
+      "checked": 439,
+      "flagged": 0,
+      "passed": true
+    },
+    {
+      "id": "W5",
+      "title": "Ratios built on flagged Eurostat values",
+      "severity": "warning",
+      "checked": 1199,
+      "flagged": 32,
+      "passed": false
+    },
+    {
+      "id": "W6",
+      "title": "Semester-on-semester price moves above 50%",
+      "severity": "warning",
+      "checked": 2617,
+      "flagged": 35,
+      "passed": false
+    },
+    {
+      "id": "W7",
+      "title": "UK semester prices agree with DESNZ's separate bills series",
+      "severity": "warning",
+      "checked": 32,
+      "flagged": 2,
+      "passed": false
+    },
+    {
+      "id": "W8",
+      "title": "EU countries with a ratio in the latest semester (2026-S1)",
+      "severity": "warning",
+      "checked": 27,
+      "flagged": 4,
+      "passed": false
+    }
+  ]
+}

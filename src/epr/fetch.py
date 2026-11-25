@@ -124,6 +124,13 @@ def fetch_all(raw_dir: Path = RAW, manifest_path: Path = MANIFEST) -> dict:
         for source in SOURCES:
             shutil.move(str(tmp_dir / source.filename), raw_dir / source.filename)
 
+    if manifest_path.exists():
+        previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+        before = {e["id"]: e["sha256"] for e in previous.get("sources", [])}
+        if before == {e["id"]: e["sha256"] for e in entries}:
+            # Nothing changed upstream: keep the old manifest so the refresh makes no commit.
+            print("no source changed since", previous.get("fetched_at"), file=sys.stderr)
+            return previous
     manifest = {"fetched_at": run_at, "sources": entries}
     manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
     return manifest

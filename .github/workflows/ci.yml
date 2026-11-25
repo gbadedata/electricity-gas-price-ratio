@@ -1,0 +1,39 @@
+name: CI
+
+# On every push and pull request: run the tests, rebuild the published tables
+# from the committed raw snapshot, and fail if the rebuild differs from what is
+# committed. That proves every number in data/processed and reports/ comes
+# from the raw files and the code in this repository.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -e ".[dev]"
+
+      - name: Raw files match the provenance manifest
+        run: python -m epr verify
+
+      - name: Tests
+        run: pytest -q
+
+      - name: Rebuild from the raw snapshot
+        run: python -m epr build
+
+      - name: Committed outputs are reproducible
+        run: |
+          git diff --stat -- data/processed/*.csv reports/*.md reports/*.csv reports/*.json
+          git diff --exit-code -- data/processed/*.csv reports/*.md reports/*.csv reports/*.json
