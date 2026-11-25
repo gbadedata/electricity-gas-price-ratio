@@ -99,9 +99,9 @@ central.query("geo == 'UK'").set_index("period")["ratio"].tail(4)
 
 ```mermaid
 flowchart TD
-    A[Eurostat SDMX API] --> F
-    B[GOV.UK content API: DESNZ workbooks] --> F
-    C[ECB data API] --> F
+    A[Eurostat] --> F
+    B[DESNZ] --> F
+    C[ECB] --> F
     F[fetch: download, check, hash] --> R[(data/raw + SHA-256 manifest)]
     R --> P[parse and clean, log every change]
     P --> S{Do Eurostat and DESNZ agree on the UK? rule B3}
