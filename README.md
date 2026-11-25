@@ -98,18 +98,18 @@ central.query("geo == 'UK'").set_index("period")["ratio"].tail(4)
 ## How it works
 
 ```mermaid
-flowchart LR
-    A[Eurostat<br/>SDMX API] --> F[fetch]
-    B[GOV.UK content API<br/>DESNZ workbooks] --> F
-    C[ECB<br/>data API] --> F
-    F --> R[(data/raw<br/>+ SHA-256 manifest)]
-    R --> P[parse and clean<br/>+ cleaning log]
-    P --> S{UK sources agree?<br/>rule B3}
-    S -->|no| STOP[build stops,<br/>nothing published]
-    S -->|yes| X[join UK series,<br/>compute ratio]
+flowchart TD
+    A[Eurostat SDMX API] --> F
+    B[GOV.UK content API: DESNZ workbooks] --> F
+    C[ECB data API] --> F
+    F[fetch: download, check, hash] --> R[(data/raw + SHA-256 manifest)]
+    R --> P[parse and clean, log every change]
+    P --> S{Do Eurostat and DESNZ agree on the UK? rule B3}
+    S -- yes --> X[join UK series, compute ratio]
     X --> V{11 quality rules}
-    V -->|blocking rule fails| STOP
-    V -->|pass| O[data/processed<br/>findings and charts]
+    V -- all blocking rules pass --> O[data/processed, findings and charts]
+    S -- no --> STOP[build stops, nothing published]
+    V -- a blocking rule fails --> STOP
 ```
 
 1. **Fetch.** Every source is downloaded into `data/raw/` and recorded in [`manifest.json`](data/raw/manifest.json) with its URL, retrieval time, size and SHA-256. A fetch either succeeds for every source or leaves the last good snapshot untouched. DESNZ moves its files to a new URL on every update, so they are found through the GOV.UK content API by title rather than by a hard-coded link.
